@@ -1,3 +1,4 @@
 John Smith - josmith@email.ex
+Blair Hicks - blairhicks@nowhere.com
 Chuck Wood - cwood@cisco.com
 Dan Williams - danwms@cisco.com
