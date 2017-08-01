@@ -1,5 +1,8 @@
 John Smith - josmith@email.ex
 Ashley Roach - asroach@cisco.com
+<<<<<<< HEAD
 Brad Bester - brbester@cisco.com
 John Doe - jodoe@email.ex
+=======
+>>>>>>> f29b72d9c61b637b24d753b17b74baaf9681ca1b
 Jock Reed - jock.da.rock@gmail.com
